@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Ana",
+    "skills": ["Python", "SQL", "Comunicação"],
+    "cultura": ["Trabalho em equipe", "Flexibilidade"],
+    "experiencia_anos": 3
+  },
+  {
+    "nome": "Bruno",
+    "skills": ["JavaScript", "React", "Comunicação"],
+    "cultura": ["Proatividade", "Foco em resultado"],
+    "experiencia_anos": 1
+  },
+  {
+    "nome": "Carlos",
+    "skills": ["Python", "Java", "SQL"],
+    "cultura": ["Flexibilidade", "Resiliência"],
+    "experiencia_anos": 5
+  }
+]
